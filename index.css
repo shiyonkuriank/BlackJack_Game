@@ -1,0 +1,28 @@
+body {
+  background-color: green;
+  text-align: center;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  color: darkorange;
+  text-align: center;
+}
+
+p {
+  font-style: italic;
+}
+
+button {
+  width: 150px;
+  background-color: darkorange;
+  color: green;
+  padding-top: 5px;
+  border-radius: 2px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border: none;
+  margin-bottom: 4px;
+}
